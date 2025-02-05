@@ -1,6 +1,8 @@
 # VatOfFinance
 R package ：Some useful functions about calculate vat of financial products.
 
+提供了一些计算金融商品转让增值税相关的R函数。
+
 # 安装
 
 如果在Windows系统安装出现错误，解决方法有两种：
